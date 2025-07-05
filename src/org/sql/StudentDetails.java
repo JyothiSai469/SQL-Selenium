@@ -48,6 +48,9 @@ public class StudentDetails {
 		
 		//retriveData("select * from employees");
 		getDetails(); 
+		
+		System.out.println("b");
+		System.out.println("q");
 
 	}
 
